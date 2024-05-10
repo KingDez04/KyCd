@@ -23,6 +23,7 @@ body {
 .key {
     border: 2px solid #ccc;
     background-color: rgb(7, 1, 29);
+    box-shadow: 0 0 10px rgb(7, 9, 95);
     border: none;
     color: white;
     display: inline-flex;
